@@ -3,14 +3,20 @@
 import logging
 import sys
 from functools import lru_cache
+from pathlib import Path
 
 
-def setup_logging(log_level: str = "INFO") -> None:
+def setup_logging(log_level: str = "INFO", log_dir: str = "logs") -> None:
     """Configure logging for the application.
 
     Args:
         log_level: Logging level (DEBUG, INFO, WARNING, ERROR, CRITICAL)
+        log_dir: Directory where log files will be written.
     """
+    # Ensure log directory exists
+    logs_path = Path(log_dir)
+    logs_path.mkdir(parents=True, exist_ok=True)
+
     # Create formatter
     formatter = logging.Formatter(
         fmt="[%(asctime)s] [%(levelname)s] [%(name)s] %(message)s",
@@ -29,6 +35,11 @@ def setup_logging(log_level: str = "INFO") -> None:
     console_handler = logging.StreamHandler(sys.stdout)
     console_handler.setFormatter(formatter)
     root_logger.addHandler(console_handler)
+
+    # File handler
+    file_handler = logging.FileHandler(logs_path / "app.log", encoding="utf-8")
+    file_handler.setFormatter(formatter)
+    root_logger.addHandler(file_handler)
 
     # Reduce noise from third-party libraries
     logging.getLogger("httpx").setLevel(logging.WARNING)
@@ -57,3 +68,6 @@ class LoggerMixin:
     def logger(self) -> logging.Logger:
         """Get logger for this class."""
         return get_logger(self.__class__.__name__)
+    
+
+
