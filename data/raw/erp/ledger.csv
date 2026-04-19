@@ -1,0 +1,101 @@
+entry_id,party,type,amount,date
+1,Swiggy India,payable,1935,2026-01-16
+2,Amazon,receivable,9398,2026-04-02
+3,TCS,payable,1427,2026-02-19
+4,Uber India,payable,7485,2026-01-09
+5,Swiggy,payable,2858,2026-03-14
+6,TCS,payable,4299,2026-02-24
+7,Swiggy,payable,3460,2026-01-06
+8,TCS Ltd,payable,7645,2026-03-22
+9,UBER TRIP,receivable,3449,2026-01-17
+10,SWIGGY,receivable,700,2026-02-23
+11,Amazon,payable,1015,2026-03-30
+12,TCS,receivable,2191,2026-03-06
+13,Uber India,receivable,6207,2026-02-01
+14,Swiggy,receivable,5157,2026-03-27
+15,TCS,payable,9706,2026-02-16
+16,UBER TRIP,payable,5189,2026-04-09
+17,SWIGGY,receivable,1843,2026-03-09
+18,Amazon,receivable,8337,2026-02-14
+19,Swiggy India,receivable,5209,2026-02-08
+20,AMZN,receivable,7694,2026-03-02
+21,Swiggy,receivable,995,2026-03-09
+22,UBER TRIP,receivable,8883,2026-01-03
+23,SWIGGY,receivable,2904,2026-01-08
+24,Swiggy India,receivable,5474,2026-02-14
+25,Amazon India Pvt Ltd,receivable,4650,2026-03-26
+26,Amazon,payable,8673,2026-03-20
+27,Uber,receivable,940,2026-03-10
+28,Tata Consultancy Services,payable,5018,2026-02-23
+29,UBER TRIP,receivable,441,2026-02-04
+30,Amazon India Pvt Ltd,receivable,1033,2026-01-12
+31,SWIGGY,payable,5600,2026-02-25
+32,Amazon India Pvt Ltd,payable,8590,2026-03-24
+33,TCS Ltd,payable,7188,2026-04-06
+34,TCS,payable,8080,2026-03-15
+35,Amazon,receivable,9849,2026-02-10
+36,Swiggy,payable,2906,2026-01-08
+37,Swiggy India,payable,8688,2026-04-09
+38,TCS,receivable,3613,2026-01-15
+39,Uber,receivable,8993,2026-01-24
+40,Uber India,payable,1727,2026-01-15
+41,Amazon India Pvt Ltd,receivable,643,2026-03-29
+42,TCS Ltd,payable,8423,2026-02-06
+43,Amazon India Pvt Ltd,payable,1769,2026-03-31
+44,AMZN,receivable,6963,2026-01-08
+45,Uber,payable,3603,2026-02-18
+46,Amazon,receivable,2442,2026-01-22
+47,Uber India,receivable,3776,2026-03-13
+48,Swiggy India,payable,8000,2026-03-04
+49,Uber,payable,9201,2026-01-06
+50,UBER TRIP,receivable,7641,2026-04-07
+51,Swiggy India,payable,6144,2026-01-22
+52,Swiggy,payable,5035,2026-02-09
+53,Swiggy,payable,3033,2026-04-16
+54,TCS,payable,4138,2026-01-09
+55,UBER TRIP,receivable,204,2026-04-07
+56,UBER TRIP,payable,4292,2026-01-18
+57,Tata Consultancy Services,receivable,6819,2026-01-22
+58,Swiggy,payable,9765,2026-03-23
+59,UBER TRIP,payable,5046,2026-03-28
+60,SWIGGY,payable,4107,2026-04-06
+61,Amazon India Pvt Ltd,payable,1765,2026-02-11
+62,Swiggy India,payable,3476,2026-02-21
+63,Uber,payable,9647,2026-03-24
+64,TCS Ltd,payable,5583,2026-03-04
+65,UBER TRIP,receivable,2097,2026-03-05
+66,Swiggy India,receivable,4615,2026-04-07
+67,SWIGGY,payable,8964,2026-03-04
+68,TCS,receivable,7253,2026-04-10
+69,Swiggy,payable,8833,2026-01-11
+70,Amazon,receivable,7303,2026-02-02
+71,Amazon,receivable,2284,2026-01-18
+72,TCS Ltd,payable,7769,2026-04-16
+73,Tata Consultancy Services,payable,1877,2026-02-02
+74,Uber India,receivable,7104,2026-01-07
+75,TCS Ltd,receivable,7794,2026-04-05
+76,UBER TRIP,receivable,6744,2026-04-08
+77,Uber,receivable,2458,2026-04-08
+78,Uber,receivable,2173,2026-02-08
+79,UBER TRIP,payable,4699,2026-04-16
+80,SWIGGY,payable,6839,2026-01-24
+81,TCS,receivable,785,2026-02-15
+82,Uber,receivable,772,2026-01-06
+83,Uber,payable,3778,2026-02-04
+84,Swiggy,receivable,3771,2026-04-11
+85,Tata Consultancy Services,receivable,8830,2026-02-24
+86,Amazon,receivable,3611,2026-01-10
+87,Uber India,receivable,2828,2026-01-11
+88,Swiggy India,receivable,5047,2026-04-08
+89,Amazon,receivable,1344,2026-03-05
+90,Tata Consultancy Services,receivable,9914,2026-03-17
+91,SWIGGY,payable,6450,2026-04-08
+92,UBER TRIP,receivable,2044,2026-04-08
+93,Amazon India Pvt Ltd,payable,1438,2026-03-12
+94,SWIGGY,payable,2186,2026-02-09
+95,TCS,receivable,1258,2026-03-02
+96,Amazon,receivable,5299,2026-01-27
+97,Swiggy India,receivable,1211,2026-02-05
+98,AMZN,payable,1499,2026-01-12
+99,Uber India,payable,3239,2026-02-14
+100,Uber India,receivable,1947,2026-04-18

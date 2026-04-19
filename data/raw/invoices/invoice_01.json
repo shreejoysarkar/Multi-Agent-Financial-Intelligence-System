@@ -1,0 +1,702 @@
+[
+  {
+    "invoice_id": "INV-001",
+    "vendor": "Swiggy India",
+    "amount": 9750,
+    "due_date": "2026-03-28",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-002",
+    "vendor": "AMZN",
+    "amount": 2092,
+    "due_date": "2026-03-01",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-003",
+    "vendor": "Swiggy India",
+    "amount": 5864,
+    "due_date": "2026-02-08",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-004",
+    "vendor": "Swiggy",
+    "amount": 1034,
+    "due_date": "2026-01-19",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-005",
+    "vendor": "UBER TRIP",
+    "amount": 659,
+    "due_date": "2026-02-20",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-006",
+    "vendor": "Uber",
+    "amount": 1358,
+    "due_date": "2026-01-25",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-007",
+    "vendor": "TCS Ltd",
+    "amount": 6073,
+    "due_date": "2026-02-27",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-008",
+    "vendor": "Amazon",
+    "amount": 3317,
+    "due_date": null,
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-009",
+    "vendor": "Uber India",
+    "amount": 1931,
+    "due_date": "2026-02-17",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-010",
+    "vendor": "Uber",
+    "amount": 9955,
+    "due_date": "2026-02-03",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-011",
+    "vendor": "AMZN",
+    "amount": 9582,
+    "due_date": "2026-03-06",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-012",
+    "vendor": "Swiggy",
+    "amount": 5039,
+    "due_date": null,
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-013",
+    "vendor": "Swiggy India",
+    "amount": 1588,
+    "due_date": "2026-02-26",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-014",
+    "vendor": "Swiggy",
+    "amount": 3230,
+    "due_date": null,
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-015",
+    "vendor": "TCS",
+    "amount": 8418,
+    "due_date": "2026-04-10",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-016",
+    "vendor": "Amazon",
+    "amount": 3028,
+    "due_date": "2026-03-14",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-017",
+    "vendor": "Swiggy",
+    "amount": 9642,
+    "due_date": null,
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-018",
+    "vendor": "Amazon India Pvt Ltd",
+    "amount": 4628,
+    "due_date": "2026-02-23",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-019",
+    "vendor": "AMZN",
+    "amount": 7529,
+    "due_date": null,
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-020",
+    "vendor": "Uber India",
+    "amount": 1077,
+    "due_date": "2026-02-04",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-021",
+    "vendor": "SWIGGY",
+    "amount": 9358,
+    "due_date": "2026-02-14",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-022",
+    "vendor": "Amazon",
+    "amount": 9211,
+    "due_date": "2026-03-24",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-023",
+    "vendor": "Amazon",
+    "amount": 3467,
+    "due_date": "2026-02-09",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-024",
+    "vendor": "Swiggy",
+    "amount": 7906,
+    "due_date": "2026-01-02",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-025",
+    "vendor": "TCS Ltd",
+    "amount": 5626,
+    "due_date": null,
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-026",
+    "vendor": "Swiggy India",
+    "amount": 426,
+    "due_date": "2026-01-26",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-027",
+    "vendor": "Swiggy",
+    "amount": 8017,
+    "due_date": "2026-02-27",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-028",
+    "vendor": "AMZN",
+    "amount": 4925,
+    "due_date": "2026-01-08",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-029",
+    "vendor": "Amazon India Pvt Ltd",
+    "amount": 2974,
+    "due_date": "2026-04-05",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-030",
+    "vendor": "Swiggy India",
+    "amount": 9828,
+    "due_date": "2026-03-22",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-031",
+    "vendor": "Uber India",
+    "amount": 7481,
+    "due_date": "2026-04-18",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-032",
+    "vendor": "Amazon India Pvt Ltd",
+    "amount": 6410,
+    "due_date": "2026-02-10",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-033",
+    "vendor": "Amazon",
+    "amount": 463,
+    "due_date": "2026-01-23",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-034",
+    "vendor": "Uber",
+    "amount": 4075,
+    "due_date": "2026-02-01",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-035",
+    "vendor": "Swiggy",
+    "amount": 6077,
+    "due_date": "2026-04-05",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-036",
+    "vendor": "SWIGGY",
+    "amount": 4858,
+    "due_date": "2026-03-18",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-037",
+    "vendor": "Uber India",
+    "amount": 2022,
+    "due_date": "2026-02-06",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-038",
+    "vendor": "Amazon",
+    "amount": 5863,
+    "due_date": "2026-03-13",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-039",
+    "vendor": "Swiggy",
+    "amount": 5145,
+    "due_date": "2026-04-04",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-040",
+    "vendor": "SWIGGY",
+    "amount": 3142,
+    "due_date": "2026-02-21",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-041",
+    "vendor": "Amazon India Pvt Ltd",
+    "amount": 7359,
+    "due_date": "2026-03-10",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-042",
+    "vendor": "AMZN",
+    "amount": 6717,
+    "due_date": "2026-01-01",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-043",
+    "vendor": "Uber",
+    "amount": 8653,
+    "due_date": "2026-01-12",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-044",
+    "vendor": "Swiggy",
+    "amount": 1001,
+    "due_date": "2026-01-30",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-045",
+    "vendor": "Amazon",
+    "amount": 2133,
+    "due_date": "2026-01-06",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-046",
+    "vendor": "AMZN",
+    "amount": 4730,
+    "due_date": "2026-03-18",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-047",
+    "vendor": "Tata Consultancy Services",
+    "amount": 210,
+    "due_date": "2026-04-10",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-048",
+    "vendor": "SWIGGY",
+    "amount": 3045,
+    "due_date": "2026-02-09",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-049",
+    "vendor": "Uber India",
+    "amount": 6873,
+    "due_date": "2026-03-23",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-050",
+    "vendor": "AMZN",
+    "amount": 5249,
+    "due_date": "2026-02-09",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-051",
+    "vendor": "Swiggy",
+    "amount": 8719,
+    "due_date": "2026-03-23",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-052",
+    "vendor": "Amazon",
+    "amount": 2393,
+    "due_date": "2026-04-14",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-053",
+    "vendor": "TCS",
+    "amount": 373,
+    "due_date": "2026-01-03",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-054",
+    "vendor": "UBER TRIP",
+    "amount": 8274,
+    "due_date": "2026-02-05",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-055",
+    "vendor": "Tata Consultancy Services",
+    "amount": 6592,
+    "due_date": "2026-03-02",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-056",
+    "vendor": "SWIGGY",
+    "amount": 1629,
+    "due_date": "2026-04-15",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-057",
+    "vendor": "TCS",
+    "amount": 3449,
+    "due_date": "2026-03-18",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-058",
+    "vendor": "TCS Ltd",
+    "amount": 1725,
+    "due_date": "2026-04-09",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-059",
+    "vendor": "Amazon",
+    "amount": 5550,
+    "due_date": "2026-02-08",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-060",
+    "vendor": "Amazon India Pvt Ltd",
+    "amount": 3587,
+    "due_date": "2026-02-02",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-061",
+    "vendor": "SWIGGY",
+    "amount": 1018,
+    "due_date": "2026-04-11",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-062",
+    "vendor": "TCS Ltd",
+    "amount": 636,
+    "due_date": "2026-01-18",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-063",
+    "vendor": "UBER TRIP",
+    "amount": 1565,
+    "due_date": "2026-03-16",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-064",
+    "vendor": "Uber",
+    "amount": 2778,
+    "due_date": "2026-04-01",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-065",
+    "vendor": "AMZN",
+    "amount": 5835,
+    "due_date": "2026-02-26",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-066",
+    "vendor": "AMZN",
+    "amount": 983,
+    "due_date": "2026-04-02",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-067",
+    "vendor": "Uber India",
+    "amount": 6926,
+    "due_date": "2026-04-03",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-068",
+    "vendor": "SWIGGY",
+    "amount": 4106,
+    "due_date": "2026-01-04",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-069",
+    "vendor": "SWIGGY",
+    "amount": 4741,
+    "due_date": "2026-04-12",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-070",
+    "vendor": "TCS Ltd",
+    "amount": 8843,
+    "due_date": "2026-04-02",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-071",
+    "vendor": "Amazon",
+    "amount": 6311,
+    "due_date": "2026-04-08",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-072",
+    "vendor": "Amazon",
+    "amount": 7581,
+    "due_date": "2026-03-22",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-073",
+    "vendor": "Amazon India Pvt Ltd",
+    "amount": 5967,
+    "due_date": null,
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-074",
+    "vendor": "Tata Consultancy Services",
+    "amount": 3013,
+    "due_date": "2026-03-12",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-075",
+    "vendor": "Uber India",
+    "amount": 3192,
+    "due_date": "2026-03-31",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-076",
+    "vendor": "Tata Consultancy Services",
+    "amount": 5036,
+    "due_date": "2026-04-07",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-077",
+    "vendor": "TCS Ltd",
+    "amount": 8492,
+    "due_date": "2026-02-24",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-078",
+    "vendor": "Swiggy",
+    "amount": 3846,
+    "due_date": "2026-01-12",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-079",
+    "vendor": "Uber India",
+    "amount": 1777,
+    "due_date": "2026-02-03",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-080",
+    "vendor": "Swiggy India",
+    "amount": 5212,
+    "due_date": "2026-01-30",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-081",
+    "vendor": "UBER TRIP",
+    "amount": 2377,
+    "due_date": "2026-01-24",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-082",
+    "vendor": "Amazon India Pvt Ltd",
+    "amount": 4632,
+    "due_date": "2026-01-14",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-083",
+    "vendor": "Uber India",
+    "amount": 1452,
+    "due_date": "2026-01-30",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-084",
+    "vendor": "Uber India",
+    "amount": 9619,
+    "due_date": "2026-03-06",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-085",
+    "vendor": "Amazon",
+    "amount": 8684,
+    "due_date": "2026-04-13",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-086",
+    "vendor": "AMZN",
+    "amount": 2208,
+    "due_date": "2026-03-13",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-087",
+    "vendor": "Swiggy India",
+    "amount": 8710,
+    "due_date": "2026-01-29",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-088",
+    "vendor": "AMZN",
+    "amount": 5458,
+    "due_date": null,
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-089",
+    "vendor": "Tata Consultancy Services",
+    "amount": 734,
+    "due_date": "2026-02-09",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-090",
+    "vendor": "TCS Ltd",
+    "amount": 1065,
+    "due_date": "2026-03-15",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-091",
+    "vendor": "Tata Consultancy Services",
+    "amount": 2077,
+    "due_date": "2026-02-13",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-092",
+    "vendor": "UBER TRIP",
+    "amount": 3666,
+    "due_date": "2026-01-19",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-093",
+    "vendor": "Swiggy",
+    "amount": 2290,
+    "due_date": "2026-02-17",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-094",
+    "vendor": "TCS",
+    "amount": 991,
+    "due_date": null,
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-095",
+    "vendor": "TCS Ltd",
+    "amount": 8721,
+    "due_date": "2026-04-18",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-096",
+    "vendor": "Swiggy",
+    "amount": 2373,
+    "due_date": "2026-01-26",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-097",
+    "vendor": "Uber India",
+    "amount": 1532,
+    "due_date": "2026-04-01",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-098",
+    "vendor": "Tata Consultancy Services",
+    "amount": 8965,
+    "due_date": "2026-02-27",
+    "status": "paid"
+  },
+  {
+    "invoice_id": "INV-099",
+    "vendor": "Uber",
+    "amount": 607,
+    "due_date": "2026-03-19",
+    "status": "unpaid"
+  },
+  {
+    "invoice_id": "INV-100",
+    "vendor": "Swiggy",
+    "amount": 2076,
+    "due_date": "2026-04-03",
+    "status": "paid"
+  }
+]
