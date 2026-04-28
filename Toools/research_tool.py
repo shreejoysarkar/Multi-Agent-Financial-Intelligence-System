@@ -22,7 +22,7 @@ def fetch_local_data(data_type: str) -> str:
     """
     target_dir = os.path.join(DATA_DIR, data_type)
     
-    logging.info(f"Fetching data of type {data_type} from {target_dir}")
+    logging.info(f"Fetching {data_type} from {target_dir}")
 
 
     if not os.path.exists(target_dir):
@@ -50,3 +50,5 @@ def fetch_local_data(data_type: str) -> str:
         logging
     except Exception as e:
         return f"Failed to read file {files[0]}: {str(e)}"
+
+## tool to normalize data

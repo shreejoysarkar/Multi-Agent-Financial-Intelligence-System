@@ -1,19 +1,23 @@
 import os
 import sys
 
+
+from langchain_ollama import Ollama
+
+
 # Ensure the root directory is in the path so we can import Toools
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from Toools.research_tool import fetch_local_data
+from Toools.research_tool import *
 from langgraph.prebuilt import create_react_agent
 from langchain_core.messages import SystemMessage
 
-def get_research_agent(llm):
+def research_agent(llm):
     """
-    Creates a LangGraph research agent equipped with the fetch_local_data tool.
+    Creates a LangGraph research agent equipped with the fetch_local_data and normalize_data tools.
     
     Args:
-        llm: The language model instance (e.g., from langchain_ollama).
+        llm: The language model instance (rom langchain_ollama).
         
     Returns:
         A compiled LangGraph ReAct agent.

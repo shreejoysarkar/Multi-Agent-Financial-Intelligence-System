@@ -1,9 +1,10 @@
 ipykernel
 dotenv
-langchain_community
-langchain_ollama
-langchain_core
+langchain-community
+langchain-ollama
+langchain-core
 langgraph
 langchain-tavily
 pydantic
+langchain
 faker
